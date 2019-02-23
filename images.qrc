@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Esprit/Projet/Fenetre/alerte.png</file>
+        <file>../../Esprit/Projet/Fenetre/alerteee.png</file>
+        <file>../../Esprit/Projet/Fenetre/detecteur-de-mouvement-avec-camera-cache (1).jpg</file>
+        <file>../../Esprit/Projet/Fenetre/exit (1).png</file>
+        <file>../../Esprit/Projet/Fenetre/fg.png</file>
+        <file>../../Esprit/Projet/Fenetre/stat.png</file>
+        <file>../../Esprit/Projet/Fenetre/etat (2).png</file>
+        <file>../../Esprit/Projet/Fenetre/Etat.png</file>
+        <file>../../Esprit/Projet/Fenetre/history.png</file>
+        <file>../../Esprit/Projet/Fenetre/parameters.png</file>
+        <file>../../../Downloads/garbage.png</file>
+        <file>../ressource/abribus.jpg</file>
+        <file>../ressource/auto_opening trash.jpg</file>
+        <file>../ressource/capteur de poids.jpg</file>
+        <file>../ressource/crosswalk eclairé.jpg</file>
+        <file>../ressource/crosswalk.gif</file>
+        <file>../ressource/garbage.png</file>
+        <file>../ressource/HTB1Jrn6GVXXXXaPXFXXq6xXFXXX6.jpg</file>
+        <file>../ressource/lamp.png</file>
+        <file>../ressource/led-rue-lumi-re-ext-rieure-lampe-de-route-ConvertImage.png</file>
+        <file>../ressource/poteau exemple.png</file>
+        <file>../ressource/poteau.png</file>
+        <file>../ressource/poubelle.jpg</file>
+        <file>../ressource/smart Lamp details.jpg</file>
+        <file>../ressource/smart-trash-collection.jpg</file>
+        <file>../ressource/stat.png</file>
+    </qresource>
+</RCC>

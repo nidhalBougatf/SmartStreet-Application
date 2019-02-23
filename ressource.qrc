@@ -1,0 +1,830 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../icone/bleu/add-button-inside-black-circle.png</file>
+        <file>../icone/bleu/add-square-button.png</file>
+        <file>../icone/bleu/cancel-button.png</file>
+        <file>../icone/bleu/circle.png</file>
+        <file>../icone/bleu/clipboard-1.png</file>
+        <file>../icone/bleu/clipboard.png</file>
+        <file>../icone/bleu/close-circular-button.png</file>
+        <file>../icone/bleu/cogwheel.png</file>
+        <file>../icone/bleu/delete-1.png</file>
+        <file>../icone/bleu/delete-2.png</file>
+        <file>../icone/bleu/delete.png</file>
+        <file>../icone/bleu/graphic.png</file>
+        <file>../icone/bleu/list.png</file>
+        <file>../icone/bleu/padnote.png</file>
+        <file>../icone/bleu/rounded-add-button.png</file>
+        <file>../icone/bleu/street-light.png</file>
+        <file>../icone/bleu/tab.png</file>
+        <file>../icone/bleu/tools-1.png</file>
+        <file>../icone/bleu/tools.png</file>
+        <file>../icone/bleu/verification-of-delivery-list-clipboard-symbol.png</file>
+        <file>../icone/bleu/wrench-1.png</file>
+        <file>../icone/bleu/wrench-2.png</file>
+        <file>../icone/bleu/wrench.png</file>
+        <file>../icone/ChoixObjet/bus-stop.png</file>
+        <file>../icone/ChoixObjet/lamp-post.png</file>
+        <file>../icone/ChoixObjet/man-silhouette-throwing-at-trash-can.png</file>
+        <file>../icone/ChoixObjet/person-crossing-street-on-crosswalk.png</file>
+        <file>../icone/ChoixObjet/poteau.png</file>
+        <file>../icone/Employee/delete.png</file>
+        <file>../icone/Employee/user-1.png</file>
+        <file>../icone/Employee/user-2.png</file>
+        <file>../icone/Employee/user-3.png</file>
+        <file>../icone/Employee/user-4.png</file>
+        <file>../icone/Employee/user-5.png</file>
+        <file>../icone/Employee/user.png</file>
+        <file>../icone/essential collection/add-1.png</file>
+        <file>../icone/essential collection/add-2.png</file>
+        <file>../icone/essential collection/add.png</file>
+        <file>../icone/essential collection/agenda.png</file>
+        <file>../icone/essential collection/alarm.png</file>
+        <file>../icone/essential collection/app.png</file>
+        <file>../icone/essential collection/archive-2.png</file>
+        <file>../icone/essential collection/archive.png</file>
+        <file>../icone/essential collection/attachment.png</file>
+        <file>../icone/essential collection/battery-1.png</file>
+        <file>../icone/essential collection/battery-2.png</file>
+        <file>../icone/essential collection/battery-3.png</file>
+        <file>../icone/essential collection/battery-4.png</file>
+        <file>../icone/essential collection/battery-6.png</file>
+        <file>../icone/essential collection/battery-9.png</file>
+        <file>../icone/essential collection/blueprint.png</file>
+        <file>../icone/essential collection/bluetooth.png</file>
+        <file>../icone/essential collection/bookmark-1.png</file>
+        <file>../icone/essential collection/briefcase.png</file>
+        <file>../icone/essential collection/broken-link.png</file>
+        <file>../icone/essential collection/calendar-1.png</file>
+        <file>../icone/essential collection/calendar-3.png</file>
+        <file>../icone/essential collection/calendar-5.png</file>
+        <file>../icone/essential collection/calendar-6.png</file>
+        <file>../icone/essential collection/calendar-7.png</file>
+        <file>../icone/essential collection/checked-1.png</file>
+        <file>../icone/essential collection/checked.png</file>
+        <file>../icone/essential collection/clock-1.png</file>
+        <file>../icone/essential collection/clock.png</file>
+        <file>../icone/essential collection/cloud-computing-1.png</file>
+        <file>../icone/essential collection/cloud-computing-2.png</file>
+        <file>../icone/essential collection/cloud-computing-3.png</file>
+        <file>../icone/essential collection/cloud-computing-5.png</file>
+        <file>../icone/essential collection/cloud-computing.png</file>
+        <file>../icone/essential collection/command.png</file>
+        <file>../icone/essential collection/compact-disc-2.png</file>
+        <file>../icone/essential collection/compact-disc.png</file>
+        <file>../icone/essential collection/compass.png</file>
+        <file>../icone/essential collection/controls-1.png</file>
+        <file>../icone/essential collection/controls-2.png</file>
+        <file>../icone/essential collection/controls-5.png</file>
+        <file>../icone/essential collection/controls-6.png</file>
+        <file>../icone/essential collection/controls-7.png</file>
+        <file>../icone/essential collection/controls-8.png</file>
+        <file>../icone/essential collection/controls-9.png</file>
+        <file>../icone/essential collection/database-1.png</file>
+        <file>../icone/essential collection/database-3.png</file>
+        <file>../icone/essential collection/diploma.png</file>
+        <file>../icone/essential collection/dislike-1.png</file>
+        <file>../icone/essential collection/dislike.png</file>
+        <file>../icone/essential collection/divide-1.png</file>
+        <file>../icone/essential collection/division.png</file>
+        <file>../icone/essential collection/edit-1.png</file>
+        <file>../icone/essential collection/edit.png</file>
+        <file>../icone/essential collection/eject.png</file>
+        <file>../icone/essential collection/equal-1.png</file>
+        <file>../icone/essential collection/equal.png</file>
+        <file>../icone/essential collection/exit-1.png</file>
+        <file>../icone/essential collection/exit.png</file>
+        <file>../icone/essential collection/eyeglasses.png</file>
+        <file>../icone/essential collection/fast-forward-1.png</file>
+        <file>../icone/essential collection/fast-forward.png</file>
+        <file>../icone/essential collection/file-1.png</file>
+        <file>../icone/essential collection/file-2.png</file>
+        <file>../icone/essential collection/file.png</file>
+        <file>../icone/essential collection/film.png</file>
+        <file>../icone/essential collection/flag-1.png</file>
+        <file>../icone/essential collection/flag-2.png</file>
+        <file>../icone/essential collection/flag-3.png</file>
+        <file>../icone/essential collection/flag.png</file>
+        <file>../icone/essential collection/focus.png</file>
+        <file>../icone/essential collection/folder-10.png</file>
+        <file>../icone/essential collection/folder-11.png</file>
+        <file>../icone/essential collection/folder-12.png</file>
+        <file>../icone/essential collection/folder-13.png</file>
+        <file>../icone/essential collection/folder-14.png</file>
+        <file>../icone/essential collection/folder-15.png</file>
+        <file>../icone/essential collection/folder-17.png</file>
+        <file>../icone/essential collection/folder-18.png</file>
+        <file>../icone/essential collection/folder-19.png</file>
+        <file>../icone/essential collection/folder-2.png</file>
+        <file>../icone/essential collection/folder-3.png</file>
+        <file>../icone/essential collection/folder-6.png</file>
+        <file>../icone/essential collection/folder-7.png</file>
+        <file>../icone/essential collection/folder-8.png</file>
+        <file>../icone/essential collection/folder-9.png</file>
+        <file>../icone/essential collection/folder.png</file>
+        <file>../icone/essential collection/forbidden.png</file>
+        <file>../icone/essential collection/funnel.png</file>
+        <file>../icone/essential collection/garbage-2.png</file>
+        <file>../icone/essential collection/garbage.png</file>
+        <file>../icone/essential collection/gift.png</file>
+        <file>../icone/essential collection/help.png</file>
+        <file>../icone/essential collection/hide.png</file>
+        <file>../icone/essential collection/home-1.png</file>
+        <file>../icone/essential collection/home-2.png</file>
+        <file>../icone/essential collection/hourglass-2.png</file>
+        <file>../icone/essential collection/house.png</file>
+        <file>../icone/essential collection/id-card-1.png</file>
+        <file>../icone/essential collection/id-card-3.png</file>
+        <file>../icone/essential collection/id-card-4.png</file>
+        <file>../icone/essential collection/id-card-5.png</file>
+        <file>../icone/essential collection/id-card.png</file>
+        <file>../icone/essential collection/incoming.png</file>
+        <file>../icone/essential collection/infinity.png</file>
+        <file>../icone/essential collection/info.png</file>
+        <file>../icone/essential collection/key.png</file>
+        <file>../icone/essential collection/lamp.png</file>
+        <file>../icone/essential collection/layers-1.png</file>
+        <file>../icone/essential collection/layers.png</file>
+        <file>../icone/essential collection/lock.png</file>
+        <file>../icone/essential collection/locked-1.png</file>
+        <file>../icone/essential collection/locked-3.png</file>
+        <file>../icone/essential collection/locked-4.png</file>
+        <file>../icone/essential collection/locked-5.png</file>
+        <file>../icone/essential collection/locked-6.png</file>
+        <file>../icone/essential collection/locked.png</file>
+        <file>../icone/essential collection/login.png</file>
+        <file>../icone/essential collection/magic-wand.png</file>
+        <file>../icone/essential collection/magnet-2.png</file>
+        <file>../icone/essential collection/magnet.png</file>
+        <file>../icone/essential collection/map-location.png</file>
+        <file>../icone/essential collection/megaphone.png</file>
+        <file>../icone/essential collection/menu-1.png</file>
+        <file>../icone/essential collection/menu-2.png</file>
+        <file>../icone/essential collection/menu-4.png</file>
+        <file>../icone/essential collection/menu.png</file>
+        <file>../icone/essential collection/microphone-1.png</file>
+        <file>../icone/essential collection/more-1.png</file>
+        <file>../icone/essential collection/more-2.png</file>
+        <file>../icone/essential collection/more.png</file>
+        <file>../icone/essential collection/multiply-1.png</file>
+        <file>../icone/essential collection/multiply.png</file>
+        <file>../icone/essential collection/music-player-1.png</file>
+        <file>../icone/essential collection/music-player-2.png</file>
+        <file>../icone/essential collection/music-player.png</file>
+        <file>../icone/essential collection/mute.png</file>
+        <file>../icone/essential collection/navigation-1.png</file>
+        <file>../icone/essential collection/navigation.png</file>
+        <file>../icone/essential collection/network.png</file>
+        <file>../icone/essential collection/newspaper.png</file>
+        <file>../icone/essential collection/next.png</file>
+        <file>../icone/essential collection/notebook-1.png</file>
+        <file>../icone/essential collection/notebook-2.png</file>
+        <file>../icone/essential collection/notebook.png</file>
+        <file>../icone/essential collection/notepad-1.png</file>
+        <file>../icone/essential collection/notepad-2.png</file>
+        <file>../icone/essential collection/notepad.png</file>
+        <file>../icone/essential collection/paper-plane.png</file>
+        <file>../icone/essential collection/pause-1.png</file>
+        <file>../icone/essential collection/pause.png</file>
+        <file>../icone/essential collection/percent-1.png</file>
+        <file>../icone/essential collection/perspective.png</file>
+        <file>../icone/essential collection/photo-camera-1.png</file>
+        <file>../icone/essential collection/photo-camera.png</file>
+        <file>../icone/essential collection/photos.png</file>
+        <file>../icone/essential collection/picture-1.png</file>
+        <file>../icone/essential collection/picture-2.png</file>
+        <file>../icone/essential collection/picture.png</file>
+        <file>../icone/essential collection/pin.png</file>
+        <file>../icone/essential collection/placeholder-1.png</file>
+        <file>../icone/essential collection/placeholder-2.png</file>
+        <file>../icone/essential collection/placeholder-3.png</file>
+        <file>../icone/essential collection/placeholder.png</file>
+        <file>../icone/essential collection/placeholders.png</file>
+        <file>../icone/essential collection/play-button-1.png</file>
+        <file>../icone/essential collection/play-button.png</file>
+        <file>../icone/essential collection/plus.png</file>
+        <file>../icone/essential collection/power.png</file>
+        <file>../icone/essential collection/previous.png</file>
+        <file>../icone/essential collection/print.png</file>
+        <file>../icone/essential collection/push-pin.png</file>
+        <file>../icone/essential collection/radar.png</file>
+        <file>../icone/essential collection/repeat-1.png</file>
+        <file>../icone/essential collection/restart.png</file>
+        <file>../icone/essential collection/resume.png</file>
+        <file>../icone/essential collection/rewind-1.png</file>
+        <file>../icone/essential collection/rewind.png</file>
+        <file>../icone/essential collection/route.png</file>
+        <file>../icone/essential collection/save.png</file>
+        <file>../icone/essential collection/search-1.png</file>
+        <file>../icone/essential collection/search.png</file>
+        <file>../icone/essential collection/send.png</file>
+        <file>../icone/essential collection/server-1.png</file>
+        <file>../icone/essential collection/server-3.png</file>
+        <file>../icone/essential collection/server.png</file>
+        <file>../icone/essential collection/settings-3.png</file>
+        <file>../icone/essential collection/settings-4.png</file>
+        <file>../icone/essential collection/settings-5.png</file>
+        <file>../icone/essential collection/settings-6.png</file>
+        <file>../icone/essential collection/settings-7.png</file>
+        <file>../icone/essential collection/settings-9.png</file>
+        <file>../icone/essential collection/settings.png</file>
+        <file>../icone/essential collection/share.png</file>
+        <file>../icone/essential collection/shutdown.png</file>
+        <file>../icone/essential collection/sign-1.png</file>
+        <file>../icone/essential collection/skip.png</file>
+        <file>../icone/essential collection/smartphone-1.png</file>
+        <file>../icone/essential collection/smartphone-11.png</file>
+        <file>../icone/essential collection/smartphone-7.png</file>
+        <file>../icone/essential collection/smartphone-9.png</file>
+        <file>../icone/essential collection/smartphone.png</file>
+        <file>../icone/essential collection/speaker-2.png</file>
+        <file>../icone/essential collection/speaker-3.png</file>
+        <file>../icone/essential collection/speaker-4.png</file>
+        <file>../icone/essential collection/speaker-5.png</file>
+        <file>../icone/essential collection/speaker-7.png</file>
+        <file>../icone/essential collection/speaker.png</file>
+        <file>../icone/essential collection/spotlight.png</file>
+        <file>../icone/essential collection/star-1.png</file>
+        <file>../icone/essential collection/star.png</file>
+        <file>../icone/essential collection/stop-1.png</file>
+        <file>../icone/essential collection/stopwatch-1.png</file>
+        <file>../icone/essential collection/stopwatch-3.png</file>
+        <file>../icone/essential collection/stopwatch-4.png</file>
+        <file>../icone/essential collection/street-1.png</file>
+        <file>../icone/essential collection/street.png</file>
+        <file>../icone/essential collection/substract-1.png</file>
+        <file>../icone/essential collection/substract.png</file>
+        <file>../icone/essential collection/success.png</file>
+        <file>../icone/essential collection/switch-4.png</file>
+        <file>../icone/essential collection/switch-5.png</file>
+        <file>../icone/essential collection/switch-6.png</file>
+        <file>../icone/essential collection/switch-7.png</file>
+        <file>../icone/essential collection/switch.png</file>
+        <file>../icone/essential collection/tabs-1.png</file>
+        <file>../icone/essential collection/tabs.png</file>
+        <file>../icone/essential collection/target.png</file>
+        <file>../icone/essential collection/television-1.png</file>
+        <file>../icone/essential collection/television.png</file>
+        <file>../icone/essential collection/trash.png</file>
+        <file>../icone/essential collection/unlink.png</file>
+        <file>../icone/essential collection/unlocked-1.png</file>
+        <file>../icone/essential collection/unlocked-2.png</file>
+        <file>../icone/essential collection/unlocked.png</file>
+        <file>../icone/essential collection/user-1.png</file>
+        <file>../icone/essential collection/user-2.png</file>
+        <file>../icone/essential collection/user-3.png</file>
+        <file>../icone/essential collection/user-4.png</file>
+        <file>../icone/essential collection/user-5.png</file>
+        <file>../icone/essential collection/user-6.png</file>
+        <file>../icone/essential collection/user-7.png</file>
+        <file>../icone/essential collection/user.png</file>
+        <file>../icone/essential collection/users-1.png</file>
+        <file>../icone/essential collection/video-camera.png</file>
+        <file>../icone/essential collection/video-player-1.png</file>
+        <file>../icone/essential collection/video-player-2.png</file>
+        <file>../icone/essential collection/video-player.png</file>
+        <file>../icone/essential collection/view-2.png</file>
+        <file>../icone/essential collection/view.png</file>
+        <file>../icone/essential collection/volume-control-1.png</file>
+        <file>../icone/essential collection/warning.png</file>
+        <file>../icone/essential collection/wifi-1.png</file>
+        <file>../icone/essential collection/windows-2.png</file>
+        <file>../icone/essential collection/windows-3.png</file>
+        <file>../icone/essential collection/windows-4.png</file>
+        <file>../icone/essential collection/windows.png</file>
+        <file>../icone/essential collection/worldwide-1.png</file>
+        <file>../icone/essential collection/zoom-in.png</file>
+        <file>../icone/essential collection/zoom-out.png</file>
+        <file>../icone/Historial/clock (1).png</file>
+        <file>../icone/Historial/clock (2).png</file>
+        <file>../icone/Historial/clock (3).png</file>
+        <file>../icone/Historial/clock (4).png</file>
+        <file>../icone/Historial/clock.png</file>
+        <file>../icone/interaction-assets/archive-11.png</file>
+        <file>../icone/interaction-assets/archive-13.png</file>
+        <file>../icone/interaction-assets/archive-15.png</file>
+        <file>../icone/interaction-assets/archive-18.png</file>
+        <file>../icone/interaction-assets/archive-19.png</file>
+        <file>../icone/interaction-assets/archive-5.png</file>
+        <file>../icone/interaction-assets/archive-6.png</file>
+        <file>../icone/interaction-assets/archive-7.png</file>
+        <file>../icone/interaction-assets/archive-8.png</file>
+        <file>../icone/interaction-assets/archive-9.png</file>
+        <file>../icone/interaction-assets/archive.png</file>
+        <file>../icone/interaction-assets/bookmark-1.png</file>
+        <file>../icone/interaction-assets/bookmark-13.png</file>
+        <file>../icone/interaction-assets/bookmark-14.png</file>
+        <file>../icone/interaction-assets/bookmark-6.png</file>
+        <file>../icone/interaction-assets/bookmark-7.png</file>
+        <file>../icone/interaction-assets/bookmark-8.png</file>
+        <file>../icone/interaction-assets/bookmark-9.png</file>
+        <file>../icone/interaction-assets/browser-1.png</file>
+        <file>../icone/interaction-assets/browser-13.png</file>
+        <file>../icone/interaction-assets/browser-15.png</file>
+        <file>../icone/interaction-assets/browser-19.png</file>
+        <file>../icone/interaction-assets/browser-2.png</file>
+        <file>../icone/interaction-assets/browser-5.png</file>
+        <file>../icone/interaction-assets/browser-7.png</file>
+        <file>../icone/interaction-assets/browser-8.png</file>
+        <file>../icone/interaction-assets/browser-9.png</file>
+        <file>../icone/interaction-assets/browser.png</file>
+        <file>../icone/interaction-assets/calendar-1.png</file>
+        <file>../icone/interaction-assets/calendar-17.png</file>
+        <file>../icone/interaction-assets/calendar-18.png</file>
+        <file>../icone/interaction-assets/calendar-25.png</file>
+        <file>../icone/interaction-assets/calendar-27.png</file>
+        <file>../icone/interaction-assets/calendar-34.png</file>
+        <file>../icone/interaction-assets/calendar-6.png</file>
+        <file>../icone/interaction-assets/calendar-7.png</file>
+        <file>../icone/interaction-assets/cloud-computing-1.png</file>
+        <file>../icone/interaction-assets/cloud-computing-10.png</file>
+        <file>../icone/interaction-assets/cloud-computing-11.png</file>
+        <file>../icone/interaction-assets/cloud-computing-13.png</file>
+        <file>../icone/interaction-assets/cloud-computing-15.png</file>
+        <file>../icone/interaction-assets/cloud-computing-2.png</file>
+        <file>../icone/interaction-assets/cloud-computing-6.png</file>
+        <file>../icone/interaction-assets/database-1.png</file>
+        <file>../icone/interaction-assets/database-11.png</file>
+        <file>../icone/interaction-assets/database-14.png</file>
+        <file>../icone/interaction-assets/database-16.png</file>
+        <file>../icone/interaction-assets/database-17.png</file>
+        <file>../icone/interaction-assets/database-18.png</file>
+        <file>../icone/interaction-assets/database-19.png</file>
+        <file>../icone/interaction-assets/database-3.png</file>
+        <file>../icone/interaction-assets/database-4.png</file>
+        <file>../icone/interaction-assets/database-7.png</file>
+        <file>../icone/interaction-assets/database-8.png</file>
+        <file>../icone/interaction-assets/database-9.png</file>
+        <file>../icone/interaction-assets/envelope-2.png</file>
+        <file>../icone/interaction-assets/envelope.png</file>
+        <file>../icone/interaction-assets/file-1.png</file>
+        <file>../icone/interaction-assets/file-11.png</file>
+        <file>../icone/interaction-assets/file-13.png</file>
+        <file>../icone/interaction-assets/file-15.png</file>
+        <file>../icone/interaction-assets/file-17.png</file>
+        <file>../icone/interaction-assets/file-18.png</file>
+        <file>../icone/interaction-assets/file-3.png</file>
+        <file>../icone/interaction-assets/file-5.png</file>
+        <file>../icone/interaction-assets/file-8.png</file>
+        <file>../icone/interaction-assets/file-9.png</file>
+        <file>../icone/interaction-assets/folder-10.png</file>
+        <file>../icone/interaction-assets/folder-11.png</file>
+        <file>../icone/interaction-assets/folder-12.png</file>
+        <file>../icone/interaction-assets/folder-13.png</file>
+        <file>../icone/interaction-assets/folder-15.png</file>
+        <file>../icone/interaction-assets/folder-17.png</file>
+        <file>../icone/interaction-assets/folder-18.png</file>
+        <file>../icone/interaction-assets/folder-19.png</file>
+        <file>../icone/interaction-assets/folder-2.png</file>
+        <file>../icone/interaction-assets/folder-3.png</file>
+        <file>../icone/interaction-assets/folder-6.png</file>
+        <file>../icone/interaction-assets/folder-8.png</file>
+        <file>../icone/interaction-assets/folder-9.png</file>
+        <file>../icone/interaction-assets/folder.png</file>
+        <file>../icone/interaction-assets/image-1.png</file>
+        <file>../icone/interaction-assets/image-10.png</file>
+        <file>../icone/interaction-assets/image-12.png</file>
+        <file>../icone/interaction-assets/image-13.png</file>
+        <file>../icone/interaction-assets/image-14.png</file>
+        <file>../icone/interaction-assets/image-15.png</file>
+        <file>../icone/interaction-assets/image-16.png</file>
+        <file>../icone/interaction-assets/image-3.png</file>
+        <file>../icone/interaction-assets/image-6.png</file>
+        <file>../icone/interaction-assets/image-8.png</file>
+        <file>../icone/interaction-assets/image-9.png</file>
+        <file>../icone/interaction-assets/image.png</file>
+        <file>../icone/interaction-assets/list-11.png</file>
+        <file>../icone/interaction-assets/list-13.png</file>
+        <file>../icone/interaction-assets/list-6.png</file>
+        <file>../icone/interaction-assets/list-9.png</file>
+        <file>../icone/interaction-assets/mail-10.png</file>
+        <file>../icone/interaction-assets/mail-11.png</file>
+        <file>../icone/interaction-assets/mail-12.png</file>
+        <file>../icone/interaction-assets/mail-14.png</file>
+        <file>../icone/interaction-assets/mail-15.png</file>
+        <file>../icone/interaction-assets/mail-2.png</file>
+        <file>../icone/interaction-assets/mail-4.png</file>
+        <file>../icone/interaction-assets/mail-5.png</file>
+        <file>../icone/interaction-assets/map-17.png</file>
+        <file>../icone/interaction-assets/map-19.png</file>
+        <file>../icone/interaction-assets/map-7.png</file>
+        <file>../icone/interaction-assets/map-8.png</file>
+        <file>../icone/interaction-assets/music-player-10.png</file>
+        <file>../icone/interaction-assets/music-player-11.png</file>
+        <file>../icone/interaction-assets/music-player-12.png</file>
+        <file>../icone/interaction-assets/music-player-13.png</file>
+        <file>../icone/interaction-assets/music-player-15.png</file>
+        <file>../icone/interaction-assets/music-player-16.png</file>
+        <file>../icone/interaction-assets/music-player-17.png</file>
+        <file>../icone/interaction-assets/music-player-18.png</file>
+        <file>../icone/interaction-assets/music-player-19.png</file>
+        <file>../icone/interaction-assets/music-player-2.png</file>
+        <file>../icone/interaction-assets/music-player-4.png</file>
+        <file>../icone/interaction-assets/music-player-5.png</file>
+        <file>../icone/interaction-assets/music-player-6.png</file>
+        <file>../icone/interaction-assets/music-player-7.png</file>
+        <file>../icone/interaction-assets/notebook-1.png</file>
+        <file>../icone/interaction-assets/notebook-10.png</file>
+        <file>../icone/interaction-assets/notebook-11.png</file>
+        <file>../icone/interaction-assets/notebook-13.png</file>
+        <file>../icone/interaction-assets/notebook-14.png</file>
+        <file>../icone/interaction-assets/notebook-15.png</file>
+        <file>../icone/interaction-assets/notebook-17.png</file>
+        <file>../icone/interaction-assets/notebook-18.png</file>
+        <file>../icone/interaction-assets/notebook-2.png</file>
+        <file>../icone/interaction-assets/notebook-7.png</file>
+        <file>../icone/interaction-assets/notepad-1.png</file>
+        <file>../icone/interaction-assets/notepad-10.png</file>
+        <file>../icone/interaction-assets/notepad-11.png</file>
+        <file>../icone/interaction-assets/notepad-13.png</file>
+        <file>../icone/interaction-assets/notepad-14.png</file>
+        <file>../icone/interaction-assets/notepad-15.png</file>
+        <file>../icone/interaction-assets/notepad-17.png</file>
+        <file>../icone/interaction-assets/notepad-18.png</file>
+        <file>../icone/interaction-assets/notepad-19.png</file>
+        <file>../icone/interaction-assets/notepad-2.png</file>
+        <file>../icone/interaction-assets/notepad-6.png</file>
+        <file>../icone/interaction-assets/notepad-7.png</file>
+        <file>../icone/interaction-assets/notepad-9.png</file>
+        <file>../icone/interaction-assets/phone-call-11.png</file>
+        <file>../icone/interaction-assets/phone-call-12.png</file>
+        <file>../icone/interaction-assets/phone-call-13.png</file>
+        <file>../icone/interaction-assets/phone-call-17.png</file>
+        <file>../icone/interaction-assets/phone-call-6.png</file>
+        <file>../icone/interaction-assets/phone-call-7.png</file>
+        <file>../icone/interaction-assets/phone-call-8.png</file>
+        <file>../icone/interaction-assets/placeholder-1.png</file>
+        <file>../icone/interaction-assets/placeholder-10.png</file>
+        <file>../icone/interaction-assets/placeholder-11.png</file>
+        <file>../icone/interaction-assets/placeholder-12.png</file>
+        <file>../icone/interaction-assets/placeholder-16.png</file>
+        <file>../icone/interaction-assets/placeholder-17.png</file>
+        <file>../icone/interaction-assets/placeholder-19.png</file>
+        <file>../icone/interaction-assets/price-tag-1.png</file>
+        <file>../icone/interaction-assets/price-tag-10.png</file>
+        <file>../icone/interaction-assets/price-tag-11.png</file>
+        <file>../icone/interaction-assets/price-tag-12.png</file>
+        <file>../icone/interaction-assets/price-tag-13.png</file>
+        <file>../icone/interaction-assets/price-tag-14.png</file>
+        <file>../icone/interaction-assets/price-tag-19.png</file>
+        <file>../icone/interaction-assets/price-tag-4.png</file>
+        <file>../icone/interaction-assets/price-tag-5.png</file>
+        <file>../icone/interaction-assets/price-tag-6.png</file>
+        <file>../icone/interaction-assets/price-tag-8.png</file>
+        <file>../icone/interaction-assets/price-tag-9.png</file>
+        <file>../icone/interaction-assets/server-1.png</file>
+        <file>../icone/interaction-assets/server-12.png</file>
+        <file>../icone/interaction-assets/server-14.png</file>
+        <file>../icone/interaction-assets/server-15.png</file>
+        <file>../icone/interaction-assets/server-19.png</file>
+        <file>../icone/interaction-assets/server-3.png</file>
+        <file>../icone/interaction-assets/server-7.png</file>
+        <file>../icone/interaction-assets/server.png</file>
+        <file>../icone/interaction-assets/signs-1.png</file>
+        <file>../icone/interaction-assets/signs-3.png</file>
+        <file>../icone/interaction-assets/signs-4.png</file>
+        <file>../icone/interaction-assets/signs.png</file>
+        <file>../icone/interaction-assets/smartphone-1.png</file>
+        <file>../icone/interaction-assets/smartphone-11.png</file>
+        <file>../icone/interaction-assets/smartphone-12.png</file>
+        <file>../icone/interaction-assets/smartphone-13.png</file>
+        <file>../icone/interaction-assets/smartphone-14.png</file>
+        <file>../icone/interaction-assets/smartphone-16.png</file>
+        <file>../icone/interaction-assets/smartphone-17.png</file>
+        <file>../icone/interaction-assets/smartphone-18.png</file>
+        <file>../icone/interaction-assets/smartphone-7.png</file>
+        <file>../icone/interaction-assets/smartphone-9.png</file>
+        <file>../icone/interaction-assets/smartphone.png</file>
+        <file>../icone/interaction-assets/speech-bubble-10.png</file>
+        <file>../icone/interaction-assets/speech-bubble-13.png</file>
+        <file>../icone/interaction-assets/speech-bubble-14.png</file>
+        <file>../icone/interaction-assets/speech-bubble-16.png</file>
+        <file>../icone/interaction-assets/speech-bubble-18.png</file>
+        <file>../icone/interaction-assets/speech-bubble-7.png</file>
+        <file>../icone/interaction-assets/speech-bubble-8.png</file>
+        <file>../icone/interaction-assets/speech-bubble.png</file>
+        <file>../icone/interaction-assets/stopwatch-10.png</file>
+        <file>../icone/interaction-assets/stopwatch-13.png</file>
+        <file>../icone/interaction-assets/stopwatch-14.png</file>
+        <file>../icone/interaction-assets/stopwatch-15.png</file>
+        <file>../icone/interaction-assets/stopwatch-16.png</file>
+        <file>../icone/interaction-assets/stopwatch-19.png</file>
+        <file>../icone/interaction-assets/stopwatch-20.png</file>
+        <file>../icone/interaction-assets/stopwatch-21.png</file>
+        <file>../icone/interaction-assets/stopwatch-22.png</file>
+        <file>../icone/interaction-assets/stopwatch-24.png</file>
+        <file>../icone/interaction-assets/stopwatch-28.png</file>
+        <file>../icone/interaction-assets/stopwatch-5.png</file>
+        <file>../icone/interaction-assets/stopwatch-6.png</file>
+        <file>../icone/interaction-assets/user-1.png</file>
+        <file>../icone/interaction-assets/user-13.png</file>
+        <file>../icone/interaction-assets/user-14.png</file>
+        <file>../icone/interaction-assets/user-16.png</file>
+        <file>../icone/interaction-assets/user-19.png</file>
+        <file>../icone/interaction-assets/user-2.png</file>
+        <file>../icone/interaction-assets/user-26.png</file>
+        <file>../icone/interaction-assets/user-29.png</file>
+        <file>../icone/interaction-assets/user-33.png</file>
+        <file>../icone/interaction-assets/user-34.png</file>
+        <file>../icone/interaction-assets/user-36.png</file>
+        <file>../icone/interaction-assets/user-37.png</file>
+        <file>../icone/interaction-assets/user-4.png</file>
+        <file>../icone/interaction-assets/user-40.png</file>
+        <file>../icone/interaction-assets/user-42.png</file>
+        <file>../icone/interaction-assets/user-44.png</file>
+        <file>../icone/interaction-assets/user-46.png</file>
+        <file>../icone/interaction-assets/user-47.png</file>
+        <file>../icone/interaction-assets/user-48.png</file>
+        <file>../icone/interaction-assets/user-49.png</file>
+        <file>../icone/interaction-assets/user-5.png</file>
+        <file>../icone/interaction-assets/user-51.png</file>
+        <file>../icone/interaction-assets/user-52.png</file>
+        <file>../icone/interaction-assets/user-53.png</file>
+        <file>../icone/interaction-assets/user-54.png</file>
+        <file>../icone/interaction-assets/user-58.png</file>
+        <file>../icone/interaction-assets/user-59.png</file>
+        <file>../icone/interaction-assets/user-6.png</file>
+        <file>../icone/interaction-assets/user-7.png</file>
+        <file>../icone/interaction-assets/user-9.png</file>
+        <file>../icone/interaction-assets/user.png</file>
+        <file>../icone/interaction-assets/video-player-1.png</file>
+        <file>../icone/interaction-assets/video-player-11.png</file>
+        <file>../icone/interaction-assets/video-player-13.png</file>
+        <file>../icone/interaction-assets/video-player-15.png</file>
+        <file>../icone/interaction-assets/video-player-17.png</file>
+        <file>../icone/interaction-assets/video-player-19.png</file>
+        <file>../icone/interaction-assets/video-player-2.png</file>
+        <file>../icone/interaction-assets/video-player-3.png</file>
+        <file>../icone/interaction-assets/video-player-4.png</file>
+        <file>../icone/interaction-assets/video-player-5.png</file>
+        <file>../icone/interaction-assets/video-player-8.png</file>
+        <file>../icone/interaction-assets/video-player-9.png</file>
+        <file>../icone/interaction-assets/video-player.png</file>
+        <file>../icone/jaune/add-button-inside-black-circle.png</file>
+        <file>../icone/jaune/add-square-button.png</file>
+        <file>../icone/jaune/cancel-button.png</file>
+        <file>../icone/jaune/circle.png</file>
+        <file>../icone/jaune/clipboard.png</file>
+        <file>../icone/jaune/close-circular-button.png</file>
+        <file>../icone/jaune/cogwheel.png</file>
+        <file>../icone/jaune/delete-1.png</file>
+        <file>../icone/jaune/delete-2.png</file>
+        <file>../icone/jaune/delete.png</file>
+        <file>../icone/jaune/graphic.png</file>
+        <file>../icone/jaune/interface.png</file>
+        <file>../icone/jaune/list.png</file>
+        <file>../icone/jaune/padnote.png</file>
+        <file>../icone/jaune/rounded-add-button.png</file>
+        <file>../icone/jaune/street-light.png</file>
+        <file>../icone/jaune/tab.png</file>
+        <file>../icone/jaune/tools-1.png</file>
+        <file>../icone/jaune/tools.png</file>
+        <file>../icone/jaune/verification-of-delivery-list-clipboard-symbol.png</file>
+        <file>../icone/jaune/wrench-1.png</file>
+        <file>../icone/jaune/wrench-2.png</file>
+        <file>../icone/jaune/wrench.png</file>
+        <file>../icone/noir/add-button-inside-black-circle.png</file>
+        <file>../icone/noir/add-square-button.png</file>
+        <file>../icone/noir/cancel-button.png</file>
+        <file>../icone/noir/circle.png</file>
+        <file>../icone/noir/clipboard-1.png</file>
+        <file>../icone/noir/clipboard.png</file>
+        <file>../icone/noir/close-circular-button.png</file>
+        <file>../icone/noir/cogwheel.png</file>
+        <file>../icone/noir/delete-1.png</file>
+        <file>../icone/noir/delete-2.png</file>
+        <file>../icone/noir/delete.png</file>
+        <file>../icone/noir/graphic.png</file>
+        <file>../icone/noir/list.png</file>
+        <file>../icone/noir/padnote.png</file>
+        <file>../icone/noir/rounded-add-button.png</file>
+        <file>../icone/noir/street-light.png</file>
+        <file>../icone/noir/tab.png</file>
+        <file>../icone/noir/tools-1.png</file>
+        <file>../icone/noir/tools.png</file>
+        <file>../icone/noir/verification-of-delivery-list-clipboard-symbol.png</file>
+        <file>../icone/noir/wrench-1.png</file>
+        <file>../icone/noir/wrench-2.png</file>
+        <file>../icone/noir/wrench.png</file>
+        <file>../icone/Objet/abribus.jpg</file>
+        <file>../icone/Objet/abribus.png</file>
+        <file>../icone/Objet/CANDELABRE.png</file>
+        <file>../icone/Objet/crosswalk.gif</file>
+        <file>../icone/Objet/crosswalk.png</file>
+        <file>../icone/Objet/garbage.png</file>
+        <file>../icone/Objet/icon poubelle.png</file>
+        <file>../icone/Objet/poteau.png</file>
+        <file>../icone/orange+/add-button-inside-black-circle.png</file>
+        <file>../icone/orange+/add-square-button.png</file>
+        <file>../icone/orange+/cancel-button.png</file>
+        <file>../icone/orange+/circle.png</file>
+        <file>../icone/orange+/clipboard.png</file>
+        <file>../icone/orange+/close-circular-button.png</file>
+        <file>../icone/orange+/cogwheel.png</file>
+        <file>../icone/orange+/delete-1.png</file>
+        <file>../icone/orange+/delete-2.png</file>
+        <file>../icone/orange+/delete.png</file>
+        <file>../icone/orange+/graphic.png</file>
+        <file>../icone/orange+/interface.png</file>
+        <file>../icone/orange+/list.png</file>
+        <file>../icone/orange+/padnote.png</file>
+        <file>../icone/orange+/rounded-add-button.png</file>
+        <file>../icone/orange+/street-light.png</file>
+        <file>../icone/orange+/tab.png</file>
+        <file>../icone/orange+/tools-1.png</file>
+        <file>../icone/orange+/tools.png</file>
+        <file>../icone/orange+/verification-of-delivery-list-clipboard-symbol.png</file>
+        <file>../icone/orange+/wrench-1.png</file>
+        <file>../icone/orange+/wrench-2.png</file>
+        <file>../icone/orange+/wrench.png</file>
+        <file>../icone/rouge/add-button-inside-black-circle.png</file>
+        <file>../icone/rouge/add-square-button.png</file>
+        <file>../icone/rouge/cancel-button.png</file>
+        <file>../icone/rouge/circle.png</file>
+        <file>../icone/rouge/clipboard-1.png</file>
+        <file>../icone/rouge/clipboard.png</file>
+        <file>../icone/rouge/close-circular-button.png</file>
+        <file>../icone/rouge/cogwheel.png</file>
+        <file>../icone/rouge/delete-1.png</file>
+        <file>../icone/rouge/delete-2.png</file>
+        <file>../icone/rouge/delete.png</file>
+        <file>../icone/rouge/graphic.png</file>
+        <file>../icone/rouge/list.png</file>
+        <file>../icone/rouge/padnote.png</file>
+        <file>../icone/rouge/rounded-add-button.png</file>
+        <file>../icone/rouge/street-light.png</file>
+        <file>../icone/rouge/tab.png</file>
+        <file>../icone/rouge/tools-1.png</file>
+        <file>../icone/rouge/tools.png</file>
+        <file>../icone/rouge/verification-of-delivery-list-clipboard-symbol.png</file>
+        <file>../icone/rouge/wrench-1.png</file>
+        <file>../icone/rouge/wrench-2.png</file>
+        <file>../icone/rouge/wrench.png</file>
+        <file>../icone/statistics icons/analytics.png</file>
+        <file>../icone/statistics icons/bar-chart-1.png</file>
+        <file>../icone/statistics icons/bar-chart-2.png</file>
+        <file>../icone/statistics icons/bar-chart.png</file>
+        <file>../icone/statistics icons/circular-diagram.png</file>
+        <file>../icone/statistics icons/decrease.png</file>
+        <file>../icone/statistics icons/growth.png</file>
+        <file>../icone/statistics icons/line-chart-1.png</file>
+        <file>../icone/statistics icons/line-chart.png</file>
+        <file>../icone/statistics icons/loss-1.png</file>
+        <file>../icone/statistics icons/loss.png</file>
+        <file>../icone/statistics icons/pie-chart-1.png</file>
+        <file>../icone/statistics icons/pie-chart-2.png</file>
+        <file>../icone/statistics icons/pie-chart-3.png</file>
+        <file>../icone/statistics icons/pie-chart.png</file>
+        <file>../icone/statistics icons/profits-1.png</file>
+        <file>../icone/statistics icons/profits.png</file>
+        <file>../icone/statistics icons/pyramid-chart.png</file>
+        <file>../icone/statistics icons/workflow-1.png</file>
+        <file>../icone/statistics icons/workflow.png</file>
+        <file>../icone/status/info.png</file>
+        <file>../icone/status/interrogation.png</file>
+        <file>../icone/status/question-1.png</file>
+        <file>../icone/status/question.png</file>
+        <file>../icone/status/round.png</file>
+        <file>../icone/status/signs.png</file>
+        <file>../icone/user-interface-elements/alignment-1.png</file>
+        <file>../icone/user-interface-elements/alignment-2.png</file>
+        <file>../icone/user-interface-elements/alignment.png</file>
+        <file>../icone/user-interface-elements/bold.png</file>
+        <file>../icone/user-interface-elements/browser-1.png</file>
+        <file>../icone/user-interface-elements/browser-10.png</file>
+        <file>../icone/user-interface-elements/browser-11.png</file>
+        <file>../icone/user-interface-elements/browser-12.png</file>
+        <file>../icone/user-interface-elements/browser-13.png</file>
+        <file>../icone/user-interface-elements/browser-14.png</file>
+        <file>../icone/user-interface-elements/browser-15.png</file>
+        <file>../icone/user-interface-elements/browser-16.png</file>
+        <file>../icone/user-interface-elements/browser-17.png</file>
+        <file>../icone/user-interface-elements/browser-18.png</file>
+        <file>../icone/user-interface-elements/browser-19.png</file>
+        <file>../icone/user-interface-elements/browser-2.png</file>
+        <file>../icone/user-interface-elements/browser-20.png</file>
+        <file>../icone/user-interface-elements/browser-21.png</file>
+        <file>../icone/user-interface-elements/browser-22.png</file>
+        <file>../icone/user-interface-elements/browser-23.png</file>
+        <file>../icone/user-interface-elements/browser-24.png</file>
+        <file>../icone/user-interface-elements/browser-25.png</file>
+        <file>../icone/user-interface-elements/browser-26.png</file>
+        <file>../icone/user-interface-elements/browser-27.png</file>
+        <file>../icone/user-interface-elements/browser-28.png</file>
+        <file>../icone/user-interface-elements/browser-29.png</file>
+        <file>../icone/user-interface-elements/browser-3.png</file>
+        <file>../icone/user-interface-elements/browser-30.png</file>
+        <file>../icone/user-interface-elements/browser-31.png</file>
+        <file>../icone/user-interface-elements/browser-32.png</file>
+        <file>../icone/user-interface-elements/browser-33.png</file>
+        <file>../icone/user-interface-elements/browser-34.png</file>
+        <file>../icone/user-interface-elements/browser-35.png</file>
+        <file>../icone/user-interface-elements/browser-36.png</file>
+        <file>../icone/user-interface-elements/browser-37.png</file>
+        <file>../icone/user-interface-elements/browser-38.png</file>
+        <file>../icone/user-interface-elements/browser-39.png</file>
+        <file>../icone/user-interface-elements/browser-4.png</file>
+        <file>../icone/user-interface-elements/browser-40.png</file>
+        <file>../icone/user-interface-elements/browser-41.png</file>
+        <file>../icone/user-interface-elements/browser-42.png</file>
+        <file>../icone/user-interface-elements/browser-43.png</file>
+        <file>../icone/user-interface-elements/browser-44.png</file>
+        <file>../icone/user-interface-elements/browser-45.png</file>
+        <file>../icone/user-interface-elements/browser-46.png</file>
+        <file>../icone/user-interface-elements/browser-47.png</file>
+        <file>../icone/user-interface-elements/browser-48.png</file>
+        <file>../icone/user-interface-elements/browser-49.png</file>
+        <file>../icone/user-interface-elements/browser-5.png</file>
+        <file>../icone/user-interface-elements/browser-50.png</file>
+        <file>../icone/user-interface-elements/browser-51.png</file>
+        <file>../icone/user-interface-elements/browser-52.png</file>
+        <file>../icone/user-interface-elements/browser-53.png</file>
+        <file>../icone/user-interface-elements/browser-54.png</file>
+        <file>../icone/user-interface-elements/browser-55.png</file>
+        <file>../icone/user-interface-elements/browser-56.png</file>
+        <file>../icone/user-interface-elements/browser-57.png</file>
+        <file>../icone/user-interface-elements/browser-6.png</file>
+        <file>../icone/user-interface-elements/browser-7.png</file>
+        <file>../icone/user-interface-elements/browser-8.png</file>
+        <file>../icone/user-interface-elements/browser-9.png</file>
+        <file>../icone/user-interface-elements/browser.png</file>
+        <file>../icone/user-interface-elements/capitalize.png</file>
+        <file>../icone/user-interface-elements/center-alignment-1.png</file>
+        <file>../icone/user-interface-elements/center-alignment.png</file>
+        <file>../icone/user-interface-elements/coding.png</file>
+        <file>../icone/user-interface-elements/decrease.png</file>
+        <file>../icone/user-interface-elements/delete.png</file>
+        <file>../icone/user-interface-elements/edit-text.png</file>
+        <file>../icone/user-interface-elements/error-page.png</file>
+        <file>../icone/user-interface-elements/insert-1.png</file>
+        <file>../icone/user-interface-elements/insert.png</file>
+        <file>../icone/user-interface-elements/italic.png</file>
+        <file>../icone/user-interface-elements/left-alignment-1.png</file>
+        <file>../icone/user-interface-elements/left-alignment-2.png</file>
+        <file>../icone/user-interface-elements/left-alignment-3.png</file>
+        <file>../icone/user-interface-elements/left-alignment-4.png</file>
+        <file>../icone/user-interface-elements/left-alignment.png</file>
+        <file>../icone/user-interface-elements/list-1.png</file>
+        <file>../icone/user-interface-elements/list-2.png</file>
+        <file>../icone/user-interface-elements/list-3.png</file>
+        <file>../icone/user-interface-elements/list.png</file>
+        <file>../icone/user-interface-elements/lowercase-1.png</file>
+        <file>../icone/user-interface-elements/lowercase.png</file>
+        <file>../icone/user-interface-elements/paragraph.png</file>
+        <file>../icone/user-interface-elements/quote.png</file>
+        <file>../icone/user-interface-elements/remove.png</file>
+        <file>../icone/user-interface-elements/right-alignment-1.png</file>
+        <file>../icone/user-interface-elements/right-alignment-2.png</file>
+        <file>../icone/user-interface-elements/right-alignment-3.png</file>
+        <file>../icone/user-interface-elements/right-alignment-4.png</file>
+        <file>../icone/user-interface-elements/right-alignment-5.png</file>
+        <file>../icone/user-interface-elements/right-alignment-6.png</file>
+        <file>../icone/user-interface-elements/right-alignment.png</file>
+        <file>../icone/user-interface-elements/search-engine.png</file>
+        <file>../icone/user-interface-elements/sort.png</file>
+        <file>../icone/user-interface-elements/style-1.png</file>
+        <file>../icone/user-interface-elements/style.png</file>
+        <file>../icone/user-interface-elements/underline.png</file>
+        <file>../icone/user-interface-elements/uppercase.png</file>
+        <file>../icone/vert/add-button-inside-black-circle.png</file>
+        <file>../icone/vert/add-square-button.png</file>
+        <file>../icone/vert/cancel-button.png</file>
+        <file>../icone/vert/circle.png</file>
+        <file>../icone/vert/clipboard-1.png</file>
+        <file>../icone/vert/clipboard.png</file>
+        <file>../icone/vert/close-circular-button.png</file>
+        <file>../icone/vert/cogwheel.png</file>
+        <file>../icone/vert/delete-1.png</file>
+        <file>../icone/vert/delete-2.png</file>
+        <file>../icone/vert/delete.png</file>
+        <file>../icone/vert/graphic.png</file>
+        <file>../icone/vert/list.png</file>
+        <file>../icone/vert/padnote.png</file>
+        <file>../icone/vert/rounded-add-button.png</file>
+        <file>../icone/vert/street-light.png</file>
+        <file>../icone/vert/tab.png</file>
+        <file>../icone/vert/tools-1.png</file>
+        <file>../icone/vert/tools.png</file>
+        <file>../icone/vert/verification-of-delivery-list-clipboard-symbol.png</file>
+        <file>../icone/vert/wrench-1.png</file>
+        <file>../icone/vert/wrench-2.png</file>
+        <file>../icone/vert/wrench.png</file>
+        <file>../icone/background2.png</file>
+        <file>../icone/Elements.png</file>
+        <file>../icone/exit.png</file>
+        <file>../icone/man.png</file>
+        <file>../icone/abribus etat/abribus eclairé.png</file>
+        <file>../icone/abribus etat/abribus vide.png</file>
+        <file>../icone/passage etat/passage allume.png</file>
+        <file>../icone/passage etat/passage eteint.png</file>
+        <file>../icone/candelabre etat/candelabre allumé.png</file>
+        <file>../icone/candelabre etat/candelabre eteinte.png</file>
+        <file>../icone/poubelle etat/poubelle pleine.png</file>
+        <file>../icone/poubelle etat/poubelle vide.png</file>
+        <file>../icone/poteau etat/gyro.png</file>
+        <file>../icone/poteau etat/poteau eteintn.png</file>
+        <file>../icone/iconenotif.png</file>
+        <file>../icone/fg.png</file>
+        <file>MAP.qml</file>
+    </qresource>
+</RCC>

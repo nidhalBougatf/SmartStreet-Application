@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LED</class>
+ <widget class="QMainWindow" name="LED">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>550</width>
+    <height>355</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QStackedWidget" name="stackedWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>541</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="currentIndex">
+     <number>1</number>
+    </property>
+    <widget class="QWidget" name="Historique">
+     <widget class="QTableWidget" name="tableWidget">
+      <property name="geometry">
+       <rect>
+        <x>120</x>
+        <y>100</y>
+        <width>381</width>
+        <height>161</height>
+       </rect>
+      </property>
+      <column>
+       <property name="text">
+        <string>Numero Lampe</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Etat</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Niveau luminosité</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>70</x>
+        <y>30</y>
+        <width>47</width>
+        <height>13</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Date</string>
+      </property>
+     </widget>
+     <widget class="QLineEdit" name="lineEdit">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>30</y>
+        <width>113</width>
+        <height>20</height>
+       </rect>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="Etat">
+     <widget class="QComboBox" name="comboBox">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>40</y>
+        <width>69</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <item>
+       <property name="text">
+        <string>Lampe 1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Lampe 2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Lampe 3</string>
+       </property>
+      </item>
+     </widget>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>26</x>
+        <y>40</y>
+        <width>81</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Numero lampe</string>
+      </property>
+     </widget>
+     <widget class="QTableWidget" name="tableWidget_2">
+      <property name="geometry">
+       <rect>
+        <x>100</x>
+        <y>80</y>
+        <width>381</width>
+        <height>192</height>
+       </rect>
+      </property>
+      <column>
+       <property name="text">
+        <string>Etat actuelle</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Niveau lumnosité</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Commentaire</string>
+       </property>
+      </column>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>32</width>
+     <height>32</height>
+    </size>
+   </property>
+   <property name="toolButtonStyle">
+    <enum>Qt::ToolButtonTextUnderIcon</enum>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionEtat"/>
+   <addaction name="separator"/>
+   <addaction name="actionHistorique"/>
+   <addaction name="separator"/>
+   <addaction name="actionQuitter"/>
+  </widget>
+  <action name="actionEtat">
+   <property name="icon">
+    <iconset resource="images.qrc">
+     <normaloff>:/Esprit/Projet/Fenetre/etat (2).png</normaloff>:/Esprit/Projet/Fenetre/etat (2).png</iconset>
+   </property>
+   <property name="text">
+    <string>Etat</string>
+   </property>
+  </action>
+  <action name="actionHistorique">
+   <property name="icon">
+    <iconset resource="images.qrc">
+     <normaloff>:/Esprit/Projet/Fenetre/history.png</normaloff>:/Esprit/Projet/Fenetre/history.png</iconset>
+   </property>
+   <property name="text">
+    <string>Historique</string>
+   </property>
+  </action>
+  <action name="actionQuitter">
+   <property name="icon">
+    <iconset resource="images.qrc">
+     <normaloff>:/Esprit/Projet/Fenetre/exit (1).png</normaloff>:/Esprit/Projet/Fenetre/exit (1).png</iconset>
+   </property>
+   <property name="text">
+    <string>Quitter</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="images.qrc"/>
+ </resources>
+ <connections/>
+</ui>
